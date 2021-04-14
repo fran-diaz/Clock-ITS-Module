@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+
+[data-component-type="clock"] .clock{
+	font-family: 'MuseoModerno';
+	font-size: 4rem;
+	text-align: center;
+}
